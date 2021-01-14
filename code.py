@@ -1,3 +1,4 @@
 print "I am learning git"
-x = 13+14+60
+print " I am on dev branch "
+x = 1+1+6
 print  x 
